@@ -1,0 +1,33 @@
+#container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#plus {
+  width: 50px;
+  height: auto;
+  background: #4109fd;
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+}
+
+#minus {
+  width: 50px;
+  height: auto;
+  background: #3e4650;
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+}
+
+#counter {
+  text-align: center;
+  color: #5224e3;
+  font-size: 3rem;
+}
+
+h1 {
+  text-align: center;
+  color: #313a55;
+}
